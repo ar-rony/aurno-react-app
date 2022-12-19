@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/aurno-react-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/aurno-react-app/static/js/main.7d9dcdbb.chunk.js",
-    "main.js.map": "/aurno-react-app/static/js/main.7d9dcdbb.chunk.js.map",
+    "main.css": "/aurno-react-app/static/css/main.5739ad41.chunk.css",
+    "main.js": "/aurno-react-app/static/js/main.46ad270b.chunk.js",
+    "main.js.map": "/aurno-react-app/static/js/main.46ad270b.chunk.js.map",
     "runtime-main.js": "/aurno-react-app/static/js/runtime-main.a6f963c6.js",
     "runtime-main.js.map": "/aurno-react-app/static/js/runtime-main.a6f963c6.js.map",
     "static/js/2.4035c325.chunk.js": "/aurno-react-app/static/js/2.4035c325.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.39a35baf.chunk.js": "/aurno-react-app/static/js/3.39a35baf.chunk.js",
     "static/js/3.39a35baf.chunk.js.map": "/aurno-react-app/static/js/3.39a35baf.chunk.js.map",
     "index.html": "/aurno-react-app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/aurno-react-app/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.5739ad41.chunk.css.map": "/aurno-react-app/static/css/main.5739ad41.chunk.css.map",
     "static/js/2.4035c325.chunk.js.LICENSE.txt": "/aurno-react-app/static/js/2.4035c325.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/aurno-react-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a6f963c6.js",
     "static/js/2.4035c325.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.7d9dcdbb.chunk.js"
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.46ad270b.chunk.js"
   ]
 }
